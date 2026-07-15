@@ -1,0 +1,25 @@
+project_id = "fjyrguznbbixobpajdga"
+
+[functions.translate]
+verify_jwt = true
+
+[functions.transcribe]
+verify_jwt = true
+
+[functions.chat]
+verify_jwt = true
+
+[functions.correct]
+verify_jwt = true
+
+[functions.tts]
+verify_jwt = true
+
+[functions.tts-openai]
+verify_jwt = true
+
+[functions.transcribe-whisper]
+verify_jwt = true
+
+[functions.translate-image]
+verify_jwt = true

@@ -1,0 +1,19 @@
+{
+  "name": "Traduz Fácil",
+  "short_name": "Traduz Fácil",
+  "description": "Tradutor de voz e texto para imigrantes — Português, Crioulo Haitiano, Francês, Inglês e Espanhol.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1e54a8",
+  "lang": "pt-BR",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

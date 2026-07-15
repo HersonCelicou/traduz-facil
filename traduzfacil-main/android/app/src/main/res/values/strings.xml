@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Traduz Fácil</string>
+    <string name="title_activity_main">Traduz Fácil</string>
+    <string name="package_name">com.traduzfacil.app</string>
+    <string name="custom_url_scheme">com.traduzfacil.app</string>
+</resources>
