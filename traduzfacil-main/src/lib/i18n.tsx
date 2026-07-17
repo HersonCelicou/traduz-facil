@@ -301,7 +301,7 @@ const pt: Dict = {
   };
 const ht: Dict = {
 
-  
+
  
   "tr.translateTo": "Tradui nan…",
   "tr.listening": "M ap koute… 🎤 pale kounye a",
